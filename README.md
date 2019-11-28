@@ -1,2 +1,2 @@
-# AZART
+# azartgames.github.io
 General Repository
