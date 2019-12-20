@@ -183,6 +183,8 @@ body {
 
 #time {
   color: rgb(125,125,125);
+  margin-top: -20px;
+  margin-bottom: 30px;
 }
 
 #text {
