@@ -158,12 +158,14 @@ body {
 }
 
 #page-title {
+  margin-top: 50px;
+  margin-bottom: 50px;
   text-align: center;
   line-height: 64px;
   font-family: Aldrich, sans-serif;
   font-weight: bold;
   padding: 25px;
-  font-size: 40px;
+  font-size: 50px;
 }
 
 #page {
