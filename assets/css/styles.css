@@ -159,17 +159,19 @@ body {
 
 #page-title {
   text-align: center;
-  font-size: 60px;
-  line-height: 200px;
+  line-height: 64px;
   font-family: Aldrich, sans-serif;
   font-weight: bold;
+  padding: 25px;
+  font-size: 40px;
 }
 
 #page {
   top: 0;
-  margin-top: 10vh;
-  width: 100%;
+  margin-top: 100px;
   position: absolute;
+  width: 100%;
+  margin-bottom: 100px;
 }
 
 #title {
@@ -183,6 +185,20 @@ body {
 
 #text {
   color: rgb(214,214,214);
+  font-size: 24px;
+  font-family: Aldrich, sans-serif;
+  /*width: 370px;*/
+}
+
+@media (min-width: 576px) {
+  #iphone-preview {
+  }
+}
+
+#page-text {
+}
+
+#games-text {
   font-size: 24px;
   font-family: Aldrich, sans-serif;
 }
