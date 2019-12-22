@@ -23,19 +23,19 @@ body {
   bottom: 0;
   right: 0;
   /*box-shadow: inset 0px 0px 1000px rgba(0,0,0,0.8);*/
-  background: radial-gradient(ellipse, transparent 49%, rgb(0,0,0) 110%);
+  background: radial-gradient(ellipse, transparent 50%, rgb(0,0,0) 100%);
   /*background-color: rgba(250,255,0,0.01);*/
   /*mix-blend-mode: difference;*/
 }
 
 #gradient-top {
   height: 150px;
-  background: linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.8) 100%);
+  background: linear-gradient(0deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.95) 100%);
 }
 
 #gradient-bottom {
   height: 150px;
-  background: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.8) 100%);
+  background: linear-gradient(180deg, rgba(0,0,0,0) 0%, rgba(0,0,0,0.95) 100%);
 }
 
 #navbar-toggle {
