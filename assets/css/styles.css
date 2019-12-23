@@ -186,7 +186,7 @@ body {
   /*margin-top: 10vh;*/
   position: absolute;
   width: 100%;
-  margin-bottom: 100px;
+  /*margin-bottom: 100px;*/
   /*transform: scale(2,2);*/
 }
 
@@ -263,11 +263,5 @@ body {
 
 #wrapper {
   /*transform: scale(0.8,0.8);*/
-}
-
-@media (min-width: 768px) {
-  .container.justify-content-xl-center {
-    /*margin-top: 50px;*/
-  }
 }
 
