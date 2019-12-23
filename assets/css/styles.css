@@ -267,7 +267,7 @@ body {
 
 @media (min-width: 768px) {
   .container.justify-content-xl-center {
-    margin-top: 50px;
+    /*margin-top: 50px;*/
   }
 }
 
